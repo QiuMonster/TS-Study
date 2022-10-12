@@ -1,0 +1,5 @@
+# Project exclude paths
+/命名空间/Circle.js
+/命名空间/IShape.js
+/命名空间/TestShape.js
+/命名空间/Triangle.js
